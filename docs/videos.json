@@ -3,6 +3,12 @@
   "title": "Strix Halo: Local AI on AMD Ryzen AI Max 395",
   "videos": [
     {
+      "id": "A1vscZzkUg4",
+      "title": "DeepSeek V4.1 Flash 1017 Update: 44% Fewer Tokens, Running on Strix / Gorgon Halo with DwarfStar",
+      "url": "https://www.youtube.com/watch?v=A1vscZzkUg4",
+      "thumbnail": "https://i.ytimg.com/vi/A1vscZzkUg4/hqdefault.jpg"
+    },
+    {
       "id": "Z26kN5VfyGA",
       "title": "192GB Framework Desktop: Local AI on Gorgon Halo",
       "url": "https://www.youtube.com/watch?v=Z26kN5VfyGA",
@@ -85,12 +91,6 @@
       "title": "Kimi-K2(1T)/GLM 4.7(355B) on a 4-Node Strix Halo Cluster - 512GB of Unified Memory",
       "url": "https://www.youtube.com/watch?v=Q-Df49aVnMY",
       "thumbnail": "https://i.ytimg.com/vi/Q-Df49aVnMY/hqdefault.jpg"
-    },
-    {
-      "id": "Hdg7zL3pcIs",
-      "title": "ROCm+Linux Support on Strix Halo: It's finally stable in 2026!",
-      "url": "https://www.youtube.com/watch?v=Hdg7zL3pcIs",
-      "thumbnail": "https://i.ytimg.com/vi/Hdg7zL3pcIs/hqdefault.jpg"
     }
   ]
 }
